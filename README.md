@@ -15,7 +15,7 @@ Sinta-se à vontade para explorar os repositórios e acompanhar os projetos que 
 
 </div>
 ---<br>
-**Um pouco sobre mim:** <br>
+<b>Um pouco sobre mim: </b><br>
 ✅ Conhecimentos em desenvolvimento de software com `Java`, `SpringBoot`, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
 ✅ Especialista em Segurança da Informação, com experiência em conscientização de usuários<br>
 ✅ Noções básicas de HTML5, CSS3 e Javascript<br>
