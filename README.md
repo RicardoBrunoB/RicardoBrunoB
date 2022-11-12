@@ -11,15 +11,17 @@
 <div align="center">
 
 Sinta-se à vontade para explorar os repositórios e acompanhar os projetos que tenho feito.<br>
-...PERFIL EM MANUTENÇÃO...
-
+<img src="https://github.com/RicardoBrunoB/assets/blob/master/Img/desenvolvedor.gif" align="center" width="300px">
 </div>
 ---<br>
+<div align="center">
 <b>Um pouco sobre mim: </b><br>
-✅ Conhecimentos em desenvolvimento de software com `Java`, `SpringBoot`, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
+
+</div><br>
+✅ Conhecimentos em desenvolvimento de software com Java, SpringBoot, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
 ✅ Especialista em Segurança da Informação, com experiência em conscientização de usuários<br>
 ✅ Noções básicas de HTML5, CSS3 e Javascript<br>
-✅ Experiência com `Linux`<br>
+✅ Experiência com Linux<br>
 ✅ 10 anos de experiência no setor público, com atuação em setores administrativos e de tecnologia, incluindo grandes projetos de sistemas e infraestrutura de TI<br>
 🧑‍🎓 Sempre aprendendo coisas novas
 
@@ -31,7 +33,8 @@ Sinta-se à vontade para explorar os repositórios e acompanhar os projetos que 
 <!-- <a target="_blank" href="https://www.linkedin.com/in/ricardobrunob/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> -->
 <br>
 <a href="https://www.linkedin.com/in/ricardobrunob" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
+<br><br><br>
+<img src="https://github.com/RicardoBrunoB/assets/blob/master/Img/bandeira-brasil.gif" align="center" width="120px">  
 </div>
 <!---
 RicardoBrunoB/RicardoBrunoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
