@@ -18,10 +18,10 @@ Sinta-se à vontade para explorar os repositórios e acompanhar os projetos que 
 <b>Um pouco sobre mim: </b><br>
 
 </div><br>
-✅ Conhecimentos em desenvolvimento de software com Java, SpringBoot, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
+✅ Desenvolvimento Backend com **Java**, SpringBoot, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
 ✅ Participação em bootcamp e projetos de desenvolvimento de soluções para bancos, delivery e vendas<br>
 ✅ Especialista em Segurança da Informação, com experiência em conscientização de usuários<br>
-✅ Noções básicas de HTML5, CSS3 e Javascript<br>
+✅ Conhecimentos em HTML5, CSS3 e Javascript<br>
 ✅ Experiência com Linux<br>
 ✅ 10 anos de experiência no setor público, com atuação em setores administrativos e de tecnologia, incluindo grandes projetos de sistemas e infraestrutura de TI<br>
 🧑‍🎓 Sempre aprendendo coisas novas
