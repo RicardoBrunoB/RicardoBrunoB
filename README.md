@@ -1,43 +1,36 @@
-<div align="center">
-<h2> Olá, seja bem-vindo(a) ao meu GitHub! <img src="https://github.com/RicardoBrunoB/assets/blob/master/Img/Hi.gif" width="30px"></h2>
-</div>
+<h1 align="center">Olá 👋, sou o Ricardo</h1>
+<h3 align="center">Um dedicado desenvolvedor backend brasileiro</h3>
 
-<div align="center" width="50">
+- 🔭 Atualmente trabalhando na **TOTVS**
 
+- 🌱 Desenvolvimento em **Java e Spring**
 
+- 🤝 Busco por parcerias e networking para **desenvolvimento de projetos em Java**
 
-</div>
+- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/RicardoBrunoB](https://github.com/RicardoBrunoB)
 
-<div align="center">
+- 📫 Entre em contato comigo: **ricardobrunob@gmail.com**
 
-Sinta-se à vontade para explorar os repositórios e acompanhar os projetos que tenho feito.<br>
-<img src="https://github.com/RicardoBrunoB/assets/blob/master/Img/desenvolvedor.gif" align="center" width="300px">
-</div>
----<br>
-<div align="center">
-<b>Um pouco sobre mim: </b><br>
+- 📄 Um pouco mais sobre minhas experiências: [https://www.linkedin.com/in/ricardobrunob/](https://www.linkedin.com/in/ricardobrunob/)
 
-</div><br>
-✅ Desenvolvimento Backend com <strong>JAVA</strong>, SpringBoot, Maven, JSON, JPA, Hibernate, Postman, SQL, Swagger<br>
-✅ Participação em bootcamp e projetos de desenvolvimento de soluções para bancos, delivery e vendas<br>
-✅ Especialista em Segurança da Informação, com experiência em conscientização de usuários<br>
-✅ Conhecimentos em HTML5, CSS3 e Javascript<br>
-✅ Experiência com Linux<br>
-✅ 10 anos de experiência no setor público, com atuação em setores administrativos e de tecnologia, incluindo grandes projetos de sistemas e infraestrutura de TI<br>
-🧑‍🎓 Sempre aprendendo coisas novas
+- ⚡ Curiosidade: **Me amarro em automobilismo e videogames**
 
----
+<br><br>
 
 <div align="center">
-<i>Para encontrar meu perfil profissional, é só clicar no link abaixo:</i><br>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardobrunob&show_icons=true&locale=en&layout=compact" alt="ricardobrunob" /></p>
 
-<!-- <a target="_blank" href="https://www.linkedin.com/in/ricardobrunob/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> -->
-<br>
-<a href="https://www.linkedin.com/in/ricardobrunob" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<br><br><br>
-<img src="https://github.com/RicardoBrunoB/assets/blob/master/Img/bandeira-brasil.gif" align="center" width="120px">  
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ricardobrunob&show_icons=true&locale=en" alt="ricardobrunob" /></p>
+  </div>
+
+
+<br><br><br><br><br><br>
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in//ricardobrunob/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/ricardobrunob/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Principais linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
 </div>
-<!---
-RicardoBrunoB/RicardoBrunoB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
