@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o Ricardo</h1>
-<h3 align="center">Um dedicado desenvolvedor backend brasileiro</h3>
+<h3 align="center">Um desenvolvedor Java apaixonado por tecnologia</h3>
 
 - 🔭 Atualmente trabalhando na **TOTVS**
 
